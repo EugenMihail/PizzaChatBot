@@ -1,2 +1,2 @@
-# PizzaChatBot
-get your pizza
+# azure-pizza-bot
+Azure Pizza Bot Service Example
