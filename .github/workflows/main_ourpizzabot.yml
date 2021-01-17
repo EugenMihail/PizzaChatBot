@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'ourpizzabot'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a9cc1e63ff6c4d2ba2866379c524a983 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_877a0e49fbd74ec0bb21afb6ffbb497b }}
         package: ./published/
